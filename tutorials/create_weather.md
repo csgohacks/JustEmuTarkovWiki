@@ -38,6 +38,6 @@ temp                       | -50  | 50
 accelerate                 | 0    | 10
 
 # Official links
-**Discord link**: https://discord.gg/JnJEev4
+**Discord link**: https://discord.gg/jv7X8wC
 
 **Reddit page**: https://www.reddit.com/r/EmuTarkov/

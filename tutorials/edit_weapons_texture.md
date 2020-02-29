@@ -85,6 +85,6 @@ You now, know how to edit files textures on Escape From Tarkov ! This works for 
 **Thanks to @KandaSoranyan alias Sorata-sempai on discord for making this tutorial**
 
 # Official links
-**Discord link**: https://discord.gg/JnJEev4
+**Discord link**: https://discord.gg/jv7X8wC
 
 **Reddit page**: https://www.reddit.com/r/EmuTarkov/

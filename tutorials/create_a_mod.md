@@ -47,7 +47,7 @@ For now, not everything can be "modded", only these things can : **Items**,**Bot
           "loot":{
               "dynamic":{
                 "lootIDFolder":{
-                 "lootfileName":"path/to/.json";
+                 "lootfileName":"/db/path/to/.json";
                 }
               },
               "forced":{},
@@ -370,6 +370,6 @@ Good job, you made your first mod for JustEmuTarkov, all other parts to be modde
 **Thanks to @InNoHurryToCode for making modding possible on JustEmuTarkov !**
 
 # Official links
-**Discord link**: https://discord.gg/JnJEev4
+**Discord link**: https://discord.gg/jv7X8wC
 
 **Reddit page**: https://www.reddit.com/r/EmuTarkov/
